@@ -27,29 +27,3 @@ ggplot(df, aes(x = logFC, y = -log10(P.Value))) +
                    box.padding = 1,   # 调整标签与点之间的距离
                    point.padding = 0.3,  # 调整点与线之间的距离
                    segment.color = 'grey50')  # 设置指向散点的线的颜色
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
